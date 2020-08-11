@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://bestanimations.com/Earth&Space/solar-planetary-system-animation-4.gif" style="width:100%;height:100%;" alt=""/>
+  <img src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" style="width:100%;height:100%;" alt=""/>
 </p>
