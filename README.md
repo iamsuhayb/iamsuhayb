@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://media.tenor.com/images/bf2795d527e9bffaa599f3411b8e83b2/tenor.gif" style="width:100%;height:100%;" alt=""/>
+  <img src="https://miro.medium.com/max/470/1*hAqUGvpKuELt93q4Dsu5ng.gif" style="width:100%;height:100%;" alt=""/>
 </p>
